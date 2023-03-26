@@ -3,11 +3,11 @@
 Terraform IaC,
 
 In this Repo, 
-    - Create  S3 bucket
-    - Enable S3 Event
-    - Create AWS Lmabda
-    - Add Cloud watch logs with AWS labmda. 
-    - Create Iam Role to enalble log event fo cloud watch.
+        - Create  S3 bucket
+        - Enable S3 Event
+        - Create AWS Lmabda
+        - Add Cloud watch logs with AWS labmda. 
+        - Create Iam Role to enalble log event fo cloud watch.
 
     lambda will capture all the S3 upload Event.
 
